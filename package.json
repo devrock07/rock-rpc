@@ -1,0 +1,15 @@
+{
+  "name": "rpc",
+  "version": "1.0.0",
+  "description": "custom rpc for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "devrock",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.1.4",
+    "listr2": "^8.2.1"
+  }
+}
